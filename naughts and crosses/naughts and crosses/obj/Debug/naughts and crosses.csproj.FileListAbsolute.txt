@@ -1,0 +1,6 @@
+D:\University\Programing and software fundamentals\naughts and crosses\naughts and crosses\bin\Debug\naughts and crosses.exe.config
+D:\University\Programing and software fundamentals\naughts and crosses\naughts and crosses\bin\Debug\naughts and crosses.exe
+D:\University\Programing and software fundamentals\naughts and crosses\naughts and crosses\bin\Debug\naughts and crosses.pdb
+D:\University\Programing and software fundamentals\naughts and crosses\naughts and crosses\obj\Debug\naughts and crosses.csprojAssemblyReference.cache
+D:\University\Programing and software fundamentals\naughts and crosses\naughts and crosses\obj\Debug\naughts and crosses.exe
+D:\University\Programing and software fundamentals\naughts and crosses\naughts and crosses\obj\Debug\naughts and crosses.pdb
